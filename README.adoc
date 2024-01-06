@@ -4,11 +4,11 @@ The USIC is a Unibus card with an FPGA and SD cards that emulates the old DEC di
 controllers and drives.
 
 This repository is the KiCad project for the hardware, the USIC board
-itself.  In addition there are separate projects for a
-http://github.com/dabridgham/QSIC[QBUS] version of the board, the
-QSIC, the http://github.com/dabridgham/QSIC-Verilog[Verilog code] that
-runs on the FPGAs, and the code that runs on the embedded soft
-processor (not yet started).
+itself.  In addition there are separate projects for a QBUS version of
+the board, the http://github.com/dabridgham/QSIC[QSIC], the
+http://github.com/dabridgham/QSIC-Verilog[Verilog code] that runs on
+the FPGAs, and the code that runs on the embedded soft processor (not
+yet started).
 
 A companion http://github.com/dabridgham/Indicator-Panel[indicator
 panel] is also available for those who want the blinkenlights.
